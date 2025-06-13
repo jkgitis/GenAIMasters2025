@@ -1,0 +1,2 @@
+
+fun welcomeMessage(coffeeType: S)
